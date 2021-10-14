@@ -20,6 +20,7 @@ cd $HOME
 git clone https://github.com/madhuakula/kubernetes-goat.git
 cd kubernetes-goat/
 bash setup-kubernetes-goat.sh
-echo "Waiting for containers to start"
+echo "Waiting 2 minutes for containers to start..."
 sleep 120
+echo "Wait completed"
 bash access-kubernetes-goat.sh
