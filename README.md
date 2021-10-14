@@ -28,7 +28,7 @@ Connect to the VM using SSH with the credentials you created
 	Example: ssh azureuser@53.178.38.134
 
 ##########################################################################
-#    SCRIPT INSTRUCTIONS
+#    SCRIPT INSTRUCTIONS 
 #   1. Run Script 1
 #   2. Log out
 #   3. SSH to VM again
